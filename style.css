@@ -79,6 +79,10 @@ div.menu{
 }
 
 }
+#navEnd  img{
+    width:20px;
+    
+}
 
 
 /* midWhole Section */
@@ -346,6 +350,9 @@ width:70px;
             width:15px;
             
         
+        }
+        #navEnd div{
+            margin-right:5px;
         }
         div.menu{
             font-size:25px;
