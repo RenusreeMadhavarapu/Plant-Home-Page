@@ -325,18 +325,26 @@ width:70px;
 
 
     #monstera{
-        font-size:350%;
+        font-size:400%;
       
     }
 
     #midWholePart11>div>ul>li{
 
         font-size:11px;
+        width:50%;
     }
     
 
     #navFirst>img{
         width:80px;
     }
+
+    #midWholePart12{
+
+       
+        margin-left:40px;
+        
+        }
   
 }
