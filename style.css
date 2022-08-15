@@ -339,12 +339,7 @@ width:70px;
         margin-left:15px;
       }
 
-      #midWholePart13{
-       
-        margin-left:20px;
-       
-        
-        }
+      
 
         #navEnd img{
             width:15px;
@@ -352,7 +347,7 @@ width:70px;
         
         }
         #navEnd div{
-            margin-right:5px;
+            margin-right:10px;
         }
         div.menu{
             font-size:25px;
@@ -360,9 +355,11 @@ width:70px;
         #imgMain{
 
             width:120px;
-            top:80%;
+            top:100%;
         }
-      
+        .midWholePart13Parts{
+            margin-left:10px;
+        }
 
 
     
