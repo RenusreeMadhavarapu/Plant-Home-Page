@@ -58,6 +58,8 @@ div.menu{
 
   #navbarMonstera{
       margin-top:10px;
+      display:flex;
+      justify-content:space-between;
   }
 
 #navMid{
@@ -75,22 +77,10 @@ div.menu{
 #navFirst img{
     width:100px;
 }
+
 }
 
-@media (max-width:500px){
 
-  #navEnd{
-      display:flex;
-      gap:2rem;
-    
-      
-  }
-  #navEnd img{
-      width:20px;
-  
-  }
-  
-  }
 /* midWhole Section */
 
 #midWhole{
@@ -338,12 +328,9 @@ width:70px;
 
     #navFirst>img{
         width:80px;
-        margin-left:20px;
+       
     }
-    div.menu{
-        margin-left:20px;
-    }
-
+    
     #midWholePart122>img{
         margin-left:15px;
       }
