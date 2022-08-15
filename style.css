@@ -343,6 +343,30 @@ width:70px;
     #midWholePart122>img{
         margin-left:15px;
       }
+
+      #midWholePart13{
+       
+        margin-left:20px;
+       
+        
+        }
+
+        #navEnd img{
+            width:15px;
+            gap:3rem;
+        
+        }
+        div.menu{
+            font-size:25px;
+        }
+        #imgMain{
+
+            width:120px;
+            top:80%;
+        }
+      
+
+
     
   
 }
